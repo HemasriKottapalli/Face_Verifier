@@ -2,7 +2,7 @@
 
 ---
 
-[# Face Verification Model using DeepFace](#)
+# Face Verification Model using DeepFace [Live Link](https://huggingface.co/spaces/Elsa999/Face_Verification)
 
 This project demonstrates a face verification system using **DeepFace**, deployed on **Hugging Face Spaces** with **Gradio**.
 
